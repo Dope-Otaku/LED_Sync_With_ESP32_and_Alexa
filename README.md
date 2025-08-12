@@ -29,4 +29,5 @@ Level Shifter (optional): For reliable data signal from ESP32 to WS2812B
 
 ## Images
 
-![Sample Image](Assets/basic_setup.jpg)
+<!-- ![Sample Image](Assets/basic_setup.jpg) -->
+<img src="Assets/basic_setup.jpg" alt="Sample Image" width="400" height="300" />
