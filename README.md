@@ -9,7 +9,7 @@
 Level Shifter (optional): For reliable data signal from ESP32 to WS2812B
 
 
-# Software Overview
+# 2. Software Overview
 
 ## Library Used:
     - [1] FastLED or Adafruit NeoPixel for LED control
@@ -17,3 +17,8 @@ Level Shifter (optional): For reliable data signal from ESP32 to WS2812B
     - [3] ArduinoJson for Alexa integration
     - [4] fauxmoESP for Alexa emulation
     - [5] FFT library for music-reactive mode
+
+## Modes Implementation:
+    - [1] **Solid Color**: Set all LEDs to a single color.
+    - [2] **Rainbow Tail**: Cycle through hues with a moving rainbow effect.
+    - [3] **Music Reactive**: Use the microphone input, perform FFT, and map    frequencies/amplitude to LED patterns.
