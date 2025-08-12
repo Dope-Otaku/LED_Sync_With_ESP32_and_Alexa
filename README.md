@@ -25,3 +25,8 @@ Level Shifter (optional): For reliable data signal from ESP32 to WS2812B
 
 ## Alexa Integration:
     Use **fauxmoESP** library to emulate a Philips Hue device, so Alexa can discover and control your ESP32
+
+
+## Images
+
+![Sample Image](Assets/basic_setup.jpg)
