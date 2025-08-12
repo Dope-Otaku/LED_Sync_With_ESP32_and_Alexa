@@ -22,3 +22,6 @@ Level Shifter (optional): For reliable data signal from ESP32 to WS2812B
     - [1] **Solid Color**: Set all LEDs to a single color.
     - [2] **Rainbow Tail**: Cycle through hues with a moving rainbow effect.
     - [3] **Music Reactive**: Use the microphone input, perform FFT, and map    frequencies/amplitude to LED patterns.
+
+## Alexa Integration:
+    Use **fauxmoESP** library to emulate a Philips Hue device, so Alexa can discover and control your ESP32
