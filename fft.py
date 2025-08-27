@@ -57,5 +57,5 @@ def plot_flower_visualization(file_path):
     except Exception as e:
         print(f"Error: {e}")
 
-file_path = "day7.wav"  # Replace with the path to your sound fil
+file_path = "day7.wav"  # Replace with the path to your sound fill acc.
 plot_flower_visualization(file_path)
